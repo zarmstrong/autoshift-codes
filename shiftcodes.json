@@ -1,14 +1,14 @@
 [
   {
     "meta": {
-      "version": "0.1",
+      "version": "2",
       "description": "GitHub Alternate Source for Shift Codes",
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/zarmstrong/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2025-09-15 10:39:05.472274+00:00"
+        "human": "2025-09-15 18:41:47.531757+00:00"
       },
-      "newcodecount": 150
+      "newcodecount": 2
     },
     "codes": [
       {
@@ -3383,7 +3383,7 @@
         "game": "Borderlands 3",
         "platform": "universal",
         "reward": "Daemon Head",
-        "archived": "2025-09-14 23:07:20.140865+00:00",
+        "archived": "2025-09-15 18:41:45.692231+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
@@ -3449,7 +3449,7 @@
         "game": "Borderlands 3",
         "platform": "universal",
         "reward": "2nd Anniversary Cosmetics",
-        "archived": "2025-09-14 23:07:20.140865+00:00",
+        "archived": "2025-09-15 18:41:45.692231+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-3-golden-keys/"
