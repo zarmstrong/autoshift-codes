@@ -6,7 +6,7 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/zarmstrong/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2025-10-14 14:44:26.085942+00:00"
+        "human": "2025-10-14 18:45:49.377345+00:00"
       },
       "newcodecount": 1
     },
@@ -150,6 +150,17 @@
         "platform": "universal",
         "reward": "1 Golden Key",
         "archived": "2025-09-13 23:40:28.737311+00:00",
+        "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "BZ6JJ-CB6CT-WXJJW-3TT3B-56FZ5",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Unknown",
+        "archived": "2025-10-14 18:45:44.990020+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
@@ -436,17 +447,6 @@
         "platform": "universal",
         "reward": "Unknown",
         "archived": "2025-09-13 23:40:28.737311+00:00",
-        "expires": "Unknown",
-        "expired": false,
-        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
-      },
-      {
-        "code": "JH6TT-RHT5J-TRJ5W-TBBJJ-XX5JB",
-        "type": "shift",
-        "game": "Borderlands 4",
-        "platform": "universal",
-        "reward": "Unknown",
-        "archived": "2025-10-14 14:44:20.201302+00:00",
         "expires": "Unknown",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
