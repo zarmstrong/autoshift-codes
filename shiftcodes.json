@@ -6,11 +6,22 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/zarmstrong/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2026-07-10 04:01:01.616520+00:00"
+        "human": "2026-07-17 02:32:43.264259+00:00"
       },
       "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "3ZRJJ-CCS93-W63T5-3BTT3-R6HCR",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "3 Golden Keys",
+        "archived": "2026-07-10 04:00:57.765601+00:00",
+        "expires": "July 14, 2026",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "J9FTJ-3CH9J-CXBJC-TTJJ3-9TZJS",
         "type": "shift",
@@ -18,8 +29,8 @@
         "platform": "universal",
         "reward": "3 Golden Keys",
         "archived": "2026-07-03 21:02:41.034926+00:00",
-        "expires": "July 7, 2026",
-        "expired": false,
+        "expires": "July 7, 2026 ?",
+        "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
@@ -1134,13 +1145,13 @@
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
-        "code": "3ZRJJ-CCS93-W63T5-3BTT3-R6HCR",
+        "code": "JHX3B-XKHH3-KXTT5-3JTJB-3K53S",
         "type": "shift",
         "game": "Borderlands 4",
         "platform": "universal",
         "reward": "3 Gold Keys",
-        "archived": "2026-07-10 04:00:57.765601+00:00",
-        "expires": "2026-07-14T02:31:00+00:00",
+        "archived": "2026-07-17 02:32:36.777077+00:00",
+        "expires": "2026-07-21T01:55:00+00:00",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
