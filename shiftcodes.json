@@ -6,9 +6,9 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/zarmstrong/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2026-09-28 14:51:08.467857+00:00"
+        "human": "2026-09-29 01:16:45.381676+00:00"
       },
-      "newcodecount": 44
+      "newcodecount": 1
     },
     "codes": [
       {
@@ -1318,6 +1318,17 @@
         "archived": "2026-06-27 07:41:00.529045+00:00",
         "expires": "2026-03-10T01:00:06+00:00",
         "expired": true,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "3SX3J-3XZ55-CR33C-JBBJT-XH395",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Loveless \"Mint Chipset\" Skin\" Vault Hunter skin",
+        "archived": "2026-09-29 01:16:40.298006+00:00",
+        "expires": "2030-12-31T00:00:00+00:00",
+        "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
       {
