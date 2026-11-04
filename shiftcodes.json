@@ -6,9 +6,9 @@
       "attribution": "Data provided by https://mentalmars.com",
       "permalink": "https://raw.githubusercontent.com/zarmstrong/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "human": "2026-11-02 20:43:03.572757+00:00"
+        "human": "2026-11-04 07:43:27.626554+00:00"
       },
-      "newcodecount": 4
+      "newcodecount": 1
     },
     "codes": [
       {
@@ -1416,6 +1416,17 @@
         "reward": "Unknown",
         "archived": "2025-09-13 23:40:28.737311+00:00",
         "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "S6X33-CT9S3-TJBTB-BTTBB-H533C",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "5 Skele/Gold Keys",
+        "archived": "2026-11-04 07:43:23.557666+00:00",
+        "expires": "2026-11-10T03:49:00+00:00",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
